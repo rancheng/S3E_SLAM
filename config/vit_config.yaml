@@ -1,0 +1,32 @@
+# model hyperparameters
+model:
+  name: ViT                                                             # model name
+  learning_rate: 1e-3                                                   # learning rate
+  weight_decay: 1e-4                                                    # weight decay rate
+  intermediate_channels: [ 128, 256, 512, 512, 256, 128, 64, 20 ]       # network structure for sparse conv
+  num_patches: 128                                                      # number of patches
+  patch_size: 16                                                        # patch shape: [16x16x4]
+  pos_dim: 3                                                            # patch position dimension [x, y, z]
+  emb_dim: 1024                                                         # dimension of embedding
+  code_dim: 512                                                         # ViT encoded dimension
+  h_dim: 32                                                             # hidden dim
+  depth: 6                                                              # network depth
+  heads: 16                                                             # number of attention heads
+  mlp_dim: 2048                                                         # size of MLP layer
+  pool: 'mean'                                                          # mean or cls
+  channels: 4                                                           # RGBD for each patch
+  dim_head: 64                                                          # head dimension
+  dropout: 1e-4                                                         # dropout rate
+  emb_dropout: 1e-3                                                     # embedding dropout rate
+  batch_size: 4                                                         # batch size
+  max_epochs: 140                                                       # maximum training epoch size
+  epsilon_w: 0.001                                                      # decay rate
+  momentum: 0.93                                                        # momentum
+  scheduler_gamma: 0.95                                                 # scheduler gamma
+  shrinkage_a: 5                                                        # shrinkage loss parameter: a
+  shrinkage_c: 0.2                                                      # shrinkage loss parameter: c
+data:
+  train_dataset: "/mnt/Data/Datasets/S3E_SLAM/data_generate_1" # where to load training dataset
+  val_dataset: "/mnt/Data/Datasets/S3E_SLAM/data_generate_1" # where to load validation dataset
+  ckpt_output: "/mnt/Data/s3e_out/" # where to save the checkpoints
+  summary_output: "/mnt/Data/s3e_out/logs" # where to save the training logs

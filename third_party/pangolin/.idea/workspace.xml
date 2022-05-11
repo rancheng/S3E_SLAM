@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Pangolin" targetName="VideoJsonPrint" />
+      <config projectName="Pangolin" targetName="SharedMemoryCamera" />
+      <config projectName="Pangolin" targetName="HelloPangolin" />
+      <config projectName="Pangolin" targetName="SimpleDisplay" />
+      <config projectName="Pangolin" targetName="VideoViewer" />
+      <config projectName="Pangolin" targetName="pangolin" />
+      <config projectName="Pangolin" targetName="Plotter" />
+      <config projectName="Pangolin" targetName="_pangolin" />
+      <config projectName="Pangolin" targetName="VideoJsonTransform" />
+      <config projectName="Pangolin" targetName="SimpleScene" />
+      <config projectName="Pangolin" targetName="SimpleVideo" />
+      <config projectName="Pangolin" targetName="SimplePlot" />
+      <config projectName="Pangolin" targetName="SimpleRecord" />
+      <config projectName="Pangolin" targetName="register-mime-info-plotter" />
+      <config projectName="Pangolin" targetName="doc" />
+      <config projectName="Pangolin" targetName="SimpleMultiDisplay" />
+      <config projectName="Pangolin" targetName="uninstall" />
+      <config projectName="Pangolin" targetName="SimpleDisplayImage" />
+      <config projectName="Pangolin" targetName="VideoConvert" />
+      <config projectName="Pangolin" targetName="register-mime-info-videoviewer" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55ff848c-341d-4c7d-bccf-2c04a3aec6ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wLbGGnZSKKIQmcORhkmgpJtp7M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="CMake Application.HelloPangolin">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloPangolin" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="HelloPangolin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="HelloPangolin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plotter" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="Plotter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="Plotter">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SharedMemoryCamera" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="SharedMemoryCamera" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="SharedMemoryCamera">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleDisplay" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="SimpleDisplay" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="SimpleDisplay">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleDisplayImage" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="SimpleDisplayImage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="SimpleDisplayImage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleMultiDisplay" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="SimpleMultiDisplay" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="SimpleMultiDisplay">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimplePlot" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="SimplePlot" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="SimplePlot">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleRecord" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="SimpleRecord" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="SimpleRecord">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleScene" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="SimpleScene" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="SimpleScene">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleVideo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="SimpleVideo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="SimpleVideo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoConvert" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="VideoConvert" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="VideoConvert">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoJsonPrint" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="VideoJsonPrint" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="VideoJsonPrint">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoJsonTransform" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="VideoJsonTransform" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="VideoJsonTransform">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoViewer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="VideoViewer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pangolin" RUN_TARGET_NAME="VideoViewer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_pangolin" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="_pangolin" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="doc" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pangolin" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="pangolin" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="register-mime-info-plotter" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="register-mime-info-plotter" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="register-mime-info-videoviewer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="register-mime-info-videoviewer" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pangolin" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.uninstall" />
+      <item itemvalue="CMake Application.HelloPangolin" />
+      <item itemvalue="CMake Application.SharedMemoryCamera" />
+      <item itemvalue="CMake Application.SimpleDisplay" />
+      <item itemvalue="CMake Application.SimpleDisplayImage" />
+      <item itemvalue="CMake Application.SimpleMultiDisplay" />
+      <item itemvalue="CMake Application.SimplePlot" />
+      <item itemvalue="CMake Application.SimpleRecord" />
+      <item itemvalue="CMake Application.SimpleScene" />
+      <item itemvalue="CMake Application.SimpleVideo" />
+      <item itemvalue="CMake Application.pangolin" />
+      <item itemvalue="CMake Application._pangolin" />
+      <item itemvalue="CMake Application.doc" />
+      <item itemvalue="CMake Application.Plotter" />
+      <item itemvalue="CMake Application.register-mime-info-plotter" />
+      <item itemvalue="CMake Application.VideoConvert" />
+      <item itemvalue="CMake Application.VideoJsonPrint" />
+      <item itemvalue="CMake Application.VideoJsonTransform" />
+      <item itemvalue="CMake Application.register-mime-info-videoviewer" />
+      <item itemvalue="CMake Application.VideoViewer" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55ff848c-341d-4c7d-bccf-2c04a3aec6ee" name="Changes" comment="" />
+      <created>1628240718232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628240718232</updated>
+      <workItem from="1628240719546" duration="2974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

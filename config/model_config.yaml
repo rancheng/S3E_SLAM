@@ -1,0 +1,10 @@
+# model hyperparameters
+model:
+  name: SPConv
+  learning_rate: 1e-3
+  weight_decay: 1e-4
+  intermediate_channels: [128, 256, 512, 512, 256, 128, 64, 20]
+# quantization parameters
+quantize:
+  voxel_size: 0.01
+  min_sample_pts: 50 # minimal sample points
