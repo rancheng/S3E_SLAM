@@ -65,3 +65,10 @@ Please follow the following steps to build the dataset
 
 - run the Vins-RGBD to generate the pose graph and point cloud map data
 - run the dataset preprocess script to cook the dataset (crop the patch, calculate ground truth iou)
+
+#### Credit
+
+The project is based on multiple open-source projects including:
+
+ - [rgbd_ptam](https://github.com/uoip/rgbd_ptam)
+ - [vins_rgbd](https://github.com/STAR-Center/VINS-RGBD)
